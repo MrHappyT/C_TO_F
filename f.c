@@ -12,5 +12,5 @@ int main(void)
     
 }
 /*
-    Matthew.C 2023 11/28            Simple fahrenheit to celsius
+    Matthew.C 2023 11/28   Simple fahrenheit and celsius converter
 */
